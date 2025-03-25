@@ -53,6 +53,4 @@ Feel free to reach out to me via:
 -   **Twitter:** [@\_nicher](https://x.com/_nicher)
 
 ---
-
--   🤔 I’m looking for help with ...
 -   ⚡ Fun fact: Why do programmers prefer dark mode? Because light attracts bugs! 😉
