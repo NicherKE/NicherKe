@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-# NicherKE
+# Its NicherKE Here
 
 Welcome to my GitHub profile! I'm NicherKE, a passionate developer who loves to explore new technologies and contribute to open-source projects.
 
@@ -39,14 +39,13 @@ I enjoy contributing to open-source projects. Here are some of my contributions:
 ## Achievements
 
 - **Certification:** Certified Python Developer in Django by eMobilis Institute
-- **Award:** Winner of the ABC Hackathon 2024
 
 ## Contact
 
 Feel free to reach out to me via:
 
-- **Email:** nicherke@example.com
-- **LinkedIn:** [Nickson Cheruiyot LinkedIn](https://www.linkedin.com/in/nicksoncheruiyotbett)
+- **Email:** nicher254@gmail.com
+- **LinkedIn:** [Nickson Cheruiyot](https://www.linkedin.com/in/nicksoncheruiyotbett)
 - **Twitter:** [@_nicher](https://x.com/_nicher)
 
 Thank you for visiting my profile!
