@@ -6,16 +6,13 @@ Welcome to my GitHub profile! I'm NicherKE, a passionate developer who loves to 
 
 ## About Me
 
--   **Name:** Nicher
+-   **Name:** Nickson
 -   **Location:** Nairobi, Kenya
--   **Interests:** Open-source development, Machine Learning, Web Development
+-   **Interests:** Open-source development, Machine Learning, Web Development and Networking
 -   **Skills:** Python, JavaScript, React, Node.js, Machine Learning
 -   **Languages:** Python-Django framework, Java, C, C#, C++, PHP, JavaScript, HTML, CSS
 -   **Algorithms:** Knowledge in; Random Forest, Linear Regression, XGBoost
--   🔭 I’m currently working on a project "medical insurance cost prediction system"
--   🌱 I’m currently learning to improve my machine learning skills (provided above)
--   👯 I’m looking to collaborate on this field of IT to bring solutions to the current world technology problems
--   💬 Ask me about technology, lets connect and make the world a better place (smile)
+-   🔭 I’m currently working on a project "medical insurance cost prediction system" and planning to improve my machine learning skills (provided above). I’m looking to collaborate on this field of IT to bring solutions to the current world technology problems. Ask me about technology, lets connect and make the world a better place.
 
 ## Projects
 
